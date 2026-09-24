@@ -1,4 +1,7 @@
 ---
+genres:
+  - stealth
+  - adventure
 directors_cut: https://shadow-alley.kisimedia.de
 post: https://github.com/kisimediaDE/Shadow-Alley/blob/main/Post-Mortem.md
 # See github.com/js13kGames/hello-world for supported frontmatter
